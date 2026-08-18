@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/abhic117/startup-searcher">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -75,7 +75,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/abhic117/startup-searcher)
 
 A web application that scrapes and normalises sydney tech startup information then displays it on a dashboard.
 
@@ -132,19 +132,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - AbhishekC117@hotmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-<!-- ## Acknowledgments
-
-- []()
-- []()
-- []() -->
+Project Link: [https://github.com/abhic117/startup-searcher](https://github.com/abhic117/startup-searcher)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
