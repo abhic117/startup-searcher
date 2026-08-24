@@ -12,3 +12,15 @@ class Startup:
     funding: Optional[str] = None
     description: Optional[str] = None
     url: Optional[str] = None
+
+    def toString(self):
+        return f'''Startup: {self.name}
+Overview: {self.overview}
+Location: {self.location}
+Industry: {self.industry}
+Stage: {self.stage}
+Team: {self.team}
+Funding: {self.funding}
+Description: {self.description}
+URL: {self.url}
+'''
