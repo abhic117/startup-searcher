@@ -1,0 +1,200 @@
+Startup: The Multicultural Professional Network
+Overview: A Global Social Enterprise Advancing Inclusive Leadership
+Location: Brisbane City, Australia
+Industry: Professional ServicesSocial Enterprise
+Stage: Scale
+Team: 21-50
+Funding: $1-$2M
+Description: The Multicultural Professional Network (MPN) is a global social enterprise advancing inclusive leadership and equitable opportunity. We connect professionals across Australia and around the world, creating clear pathways for career and leadership growth. As a People and Planet First Verified Social Enterprise and a World Fair Trade Organisation Guaranteed Member, we champion ethical, purpose‑driven practice. Through ImpactSphere, our platform for measurable public good, we enable systemic change, advance social impact and empower communities to lead their own solutions.
+URL: https://multiculturalprofessionalnetwork.com.au/
+
+Startup: Valued
+Overview: Business Media Platform
+Location: Sydney, Australia
+Industry: E-CommerceWeb Services (inc Hosting & Cloud)Tech Startup
+Stage: Early
+Team: 6-10
+Funding: $1-$2M
+Description: With Valued, growth happens through trust - not clicks.
+URL: https://valued.biz
+
+Startup: Solarnote
+Overview: Discover what’s next.
+Location: Sydney, Australia
+Industry: Social Media
+Stage: Early
+Team: 6-10
+Funding: None
+Description: Solarnote is an interactive discovery platform for real life, helping people explore places, events, and communities through curated content, editorial feeds, and real-time local context.
+URL: https://solarnote.co/
+
+Startup: Equi Consultancy Partners
+Overview: Partnering Globally to Advance Equity and Inclusion
+Location: Dover, Delaware
+Industry: ConsultingProfessional Services
+Stage: Scale
+Team: 50-100
+Funding: $10M-$20M
+Description: Named “Best Emerging Global DEI Consultancy Firm 2025” by Wealth & Finance International 🏆
+URL: https://equiconsultancypartners.com.au/
+
+Startup: Cohesion Travel
+Overview: Cohesion Travel offers authentic experiences by connecting tourists with locals.
+Location: Sydney, Australia
+Industry: Travel & Tourism
+Stage: Idea
+Team: 1
+Funding: None
+Description: Cohesion Travel is a disruptive travel startup focused on authentic experiences by connecting travelers directly with local cultures. Our platform offers immersive, off-the-beaten-path adventures, helping travelers engage deeply with destinations through genuine local interactions. We aim to transform travel from typical sightseeing into meaningful, culturally-rich journeys.
+URL: https://www.cohesiontravel.com
+
+Startup: Kanchan Deshmukh
+Overview: SaveX Corp : AI-Powered Cash Rewards Platform
+Location: Sydney, Australia
+Industry: Financial Services / FinTech
+Stage: Growth
+Team: 3-5
+Funding: $501K-$1M
+Description: Unlock Big Savings with Every Transaction.
+URL: https://www.savexcorp.com
+
+Startup: Multivrse Digital
+Overview: AI-powered boutique agency delivering seamless, tailored multilingual solutions
+Location: Sydney, Australia
+Industry: E-CommerceRetailTravel & Tourism
+Stage: Early
+Team: 3-5
+Funding: <$50K
+Description: Let Multivrse help you overcome language barriers, unlock global opportunities, and connect with your audience on a deeper, more meaningful level.
+URL: https://multivrse.digital
+
+Startup: Black Jet
+Overview: https://blackjet.au Unlimited Sydney-Melbourne flights for a flat monthly price
+Location: Sydney, Australia
+Industry: AerospaceTech StartupAir Transportation
+Stage: Early
+Team: 6-10
+Funding: $2M - $5M
+Description: Australia’s first and only personal aviation service offering unlimited Sydney-Melbourne flights for a flat monthly fee. Arrive a mere 15 minutes before departure at our exclusive private terminal — say goodbye to busy terminals and lengthy lines. As a Black Jet member, you're introduced to a transformative, hassle-free flying experience. Revel in the luxury of unlimited flights and enjoy a seamless arrive-and-fly process. Black Jet sets a new standard for aviation: personal, refined, and just for you.
+URL: https://blackjet.au
+
+Startup: Promptlaw
+Overview: Empowering Justice: AI-Driven Legal Access for All
+Location: Sydney, Australia
+Industry: Legal Services
+Stage: Growth
+Team: 11-20
+Funding: <$50K
+Description: By integrating AI technologies like knowledge graph-based reasoning and semantic search capabilities, Promptlaw ensures a more intuitive and context-aware legal assistance experience. This approach not only streamlines the legal process but also opens the doors of legal advice and documentation services to a wider audience, fulfilling our vision of making law universally accessible and more efficient.
+URL: https://www.promptlaw.com.au
+
+Startup: VideoAnalysis - Accelerate Loss Detection.
+Overview: Launched at the Founder Institute.
+Location: Newcastle, Australia
+Industry: Apparel & AccessoriesArtificial IntelligenceData & Information (inc Analytics & Big Data)FashionRetail
+Stage: Idea Validation
+Team: 2
+Funding: -
+Description: By leveraging artificial intelligence, VideoAnalysis aims to provide retailers with tools to optimize operations and improve customer satisfaction.
+URL: https://www.videoanalysis.com.au
+
+Startup: indyrct
+Overview: Vendor Management as an Agentic Service for the B2B Technology Ecosystem
+Location: Sydney, Australia
+Industry: Information TechnologyTech StartupMarketing
+Stage: Building MVP
+Team: 1
+Funding: $101-$200K
+Description: Aggregating and Automating the Sales Pipeline and Marketing RoI Metrics for Vendors and Distributors working with partner programs at scale, increasing forcast quality and better informed Market Development Fund allocation.
+URL: https://www.indyrct.com
+
+Startup: MarketMind
+Overview: Market analysis done in seconds
+Location: Katoomba, Australia
+Industry: Artificial IntelligenceTech Startup
+Stage: Early
+Team: 2
+Funding: <$50K
+Description: MarketMind is an AI-accelerated market research & analysis tool that helps you find insights for any product or company using the latest up-to-date information, helping entrepreneurs & market researchers find hidden opportunities within seconds. Co-founded by Aiden Soedjarwo & Andrew Nechay.
+URL: https://market-mind.ai
+
+Startup: Kobalt.io
+Overview: Canada’s leading security and compliance service provider for SMB High tech
+Location: Vancouver, Canada
+Industry: ConsultingInformation TechnologyTechnology
+Stage: Growth
+Team: 11-20
+Funding: -
+Description: Kobalt.io is a rapidly growing company that manages all aspects of cybersecurity programs for small and medium-sized, cloud-native businesses. Our team acts as an extension of our clients, considering their unique limitations and needs and supporting them with services ranging from security program-as-a-service to privacy management and 24x7 monitoring. Ensuring our client’s security and helping drive their business growth are our top priorities.
+URL: https://kobalt.io/
+
+Startup: Gradualise
+Overview: Own Gold Bullion in 4 equal fortnightly payment
+Location: Newcastle, Australia
+Industry: E-Commerce
+Stage: Growth
+Team: 1
+Funding: $51-$100K
+Description: We are an e-commerce store, aiming to provide innovative solutions that enhance customer experience and buying power in the precious metals market. 
+URL: https://www.gradualise.com.au
+
+Startup: 3VIMA Pty Ltd
+Overview: The future of construction using AI & Robotics.
+Location: Sydney, Australia
+Industry: Architecture / Building & Construction
+Stage: Scale
+Team: 6-10
+Funding: $2M - $5M
+Description: We are using AI & Robotics in Construction with a cutting edge technology to print the future in construction and have projects in the pipeline ready for deployment.
+URL: https://3vima.construction 
+
+Startup: Kaiso: Streamlining ISO Compliance Management for Small Businesses
+Overview: AI Powered Compliance for SMEs.
+Location: Sydney, Australia
+Industry: Tech Startup
+Stage: Early
+Team: 3-5
+Funding: $201-$500K
+Description: www.kaiso.com
+URL: https://www.kaiso.com
+
+Startup: Notedaisy
+Overview: A note-taking platform designed for learning.
+Location: Sydney, Australia
+Industry: Education Technology (EdTech)Tech StartupArtificial Intelligence
+Stage: Idea Validation
+Team: 1
+Funding: None
+Description: Notedaisy is a note-taking platform that is designed for learning. Note-taking is a form of active learning which learners engage with a material by processing and organizing information in their head, which is then translated in writing. Our vision is to leverages visual learning techniques and artificial intelligence to make this process more efficient—saving time, increase understanding, and promote holistic learning to learners.
+URL: https://notedaisy.com/
+
+Startup: OPTIDAN AI
+Overview: Transforming Content Performance for mid to large retailers at scale
+Location: Lindfield, Australia
+Industry: Artificial IntelligenceMarketingTech StartupRetail
+Stage: Growth
+Team: 3-5
+Funding: None
+Description: Optidan harnesses AI to tackle the persistent problem of ineffective content management in online retail. Introducing Optidan's innovative platform, powered by advanced AI technology to revolutionise how retailers and brands create and manage content. With our system, experience up to a 50x increase in content generation speed, and up to an 80% reduction in content-related expenses. We provide a solution that works for you, enhancing efficiency and driving online success. Embrace the change with Optidan and propel your content to new heights.
+URL: https://optidan.com
+
+Startup: Q-Compliance Consultancy
+Overview: An Australian consultancy ready to empower, listen and motivate businesses.
+Location: Gladesville, Australia
+Industry: Consulting
+Stage: Building MVP
+Team: 1
+Funding: <$50K
+Description: E-mail: qcomplianceconsultancy@outlook.com
+URL: https://www.linkedin.com/in/q-compliance-consultancy-1a05a6333/
+
+Startup: ChargedBattery
+Overview: 100% Fully Charged Batteries delivered to your doorstep! Swap & Play.
+Location: Newcastle, Australia
+Industry: Retail
+Stage: Early
+Team: 1
+Funding: <$50K
+Description: Charged Battery emphasizes sustainability by managing the end-of-life disposal of batteries responsibly. By providing pre-charged batteries and handling their recycling, the company reduces electronic waste and promotes eco-friendly practices.
+URL: https://www.linkedin.com/in/q-compliance-consultancy-1a05a6333/
+
