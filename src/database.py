@@ -1,5 +1,4 @@
 import sqlite3
-import pandas as pd
 
 from src.models import Startup
 
@@ -34,11 +33,27 @@ def insert_startup(startup: Startup):
     conn.commit()
     conn.close()
 
-def database_to_dataframe():
+def row_to_startup(row):
+    return Startup (
+        name=row[1],
+        overview=row[2],
+        location=row[3],
+        industry=row[4],
+        stage=row[5],
+        team=row[6],
+        funding=row[7],
+        description=row[8],
+        url=row[9]
+    )
+
+def get_startups():
     conn = sqlite3.connect('data/startups.db')
+    cursor = conn.cursor()
 
-    query = "SELECT * FROM startups"
+    cursor.execute("SELECT * FROM startups")
 
-    df = pd.read_sql_query(query, conn)
+    rows = cursor.fetchall()
 
-    return df
+    return [
+        row_to_startup(row) for row in rows
+    ]
