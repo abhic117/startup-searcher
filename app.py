@@ -1,10 +1,13 @@
 import streamlit as st
 import pandas as pd
 import time
+from dotenv import load_dotenv
 
 from src.database import get_startups
 from src.rag.retrieve import retrieve
 from src.rag.generate import generate_answer
+
+load_dotenv()
 
 def stream_data(text):
     for word in text.split():
@@ -54,19 +57,15 @@ with st.container(height=250, width=700):
     if query:
         with st.chat_message("user"):
             st.markdown(query)
-            start_time = time.perf_counter()
-            context = retrieve(query)
-            end_time = time.perf_counter()
-            execution = end_time - start_time
-            print(f"Retrieval took {execution:.6f} seconds.")
+
+            with st.spinner("Retrieving information..."):
+                context = retrieve(query)
+
         st.session_state.messages.append({"role": "user", "content": query})
 
-        start_time = time.perf_counter()
-        response = f"test: {generate_answer(query, context)}"
-        end_time = time.perf_counter()
-        execution = end_time - start_time
-        print(f"generation took {execution:.6f} seconds")
+        with st.spinner("Generating response..."):
+            response = f"{generate_answer(query, context)}"
 
-        with st.chat_message("assistant"):
-            st.write_stream(stream_data(response))
-        st.session_state.messages.append({"role": "assistant", "content": response})
+            with st.chat_message("assistant"):
+                st.write_stream(stream_data(response))
+            st.session_state.messages.append({"role": "assistant", "content": response})

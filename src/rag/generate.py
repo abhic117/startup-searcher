@@ -1,6 +1,9 @@
 from ollama import chat
+from dotenv import load_dotenv
 
 def generate_answer(query, context):
+    load_dotenv()
+
     llm_prompt = f'''
 You are a helpful assistant for a startup-searcher dashboard. Your aim is to help the user with questions relating to startups. Answers the user's questions using ONLY the context provided.
 
@@ -18,7 +21,8 @@ User Question:
 '''
 
     response = chat(
-        model="qwen2.5:7b-instruct-q4_K_M",
+        # model="qwen2.5:7b-instruct-q4_K_M",
+        model="gpt-oss:20b-cloud",
         messages=[{"role": "user", "content": llm_prompt}]
     )
     return response["message"]["content"]
