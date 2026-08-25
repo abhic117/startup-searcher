@@ -75,7 +75,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/abhic117/startup-searcher)
+[![Product Name Screen Shot][main-screenshot]](https://github.com/abhic117/startup-searcher)
 
 A web application that scrapes and normalises sydney tech startup information then displays it on a dashboard.
 
@@ -100,20 +100,36 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/abhic117/startup-searcher.git
    ```
-2. Install python packages
+2. Create and activate virtual environment
+   ```sh
+   python -m venv venv
+   ```
+   ```
+   venv\Scripts\activate.bat
+   ```
+   or
+   ```
+   venv\Scripts\activate.ps1
+   ```
+3. Install python packages
    ```sh
    python -m pip install -r requirements.txt
+   ```
+4. Download Ollama
+   ```sh
+   https://ollama.com/download
+   ```
+5. Pull Qwen model
+   ```sh
+   ollama pull qwen2.5:7b-instruct-q4_K_M
    ```
 
 ### Running
 
-1. Generate database
+1. Run Ollama desktop application
+2. Run command
    ```sh
-   scrape_and_insert.py
-   ```
-2. Run streamlit fronted
-   ```sh
-   streamlit run app.py
+   streamlit run st_chatbot.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,9 +138,13 @@ To get a local copy up and running follow these simple steps.
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This dashboard has many features centred around finding a start-up suitable for a job role.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+The interactive table shows the complete list of startups within the database. The table includes features to search, sort and select different fields. The sidebar also contains filters for each column, allowing them to be toggled on or off.
+![Usage Database][usage-1]
+
+The chat window features an AI chatbot connected to the database via RAG, allowing the user to ask semantic questions relating to the database.
+![Usage Chat][usage-2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +152,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - AbhishekC117@hotmail.com
+Abhishek Chand - AbhishekC117@hotmail.com
 
 Project Link: [https://github.com/abhic117/startup-searcher](https://github.com/abhic117/startup-searcher)
 
@@ -141,38 +161,12 @@ Project Link: [https://github.com/abhic117/startup-searcher](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[main-screenshot]: images/main.png
+[usage-1]: images/usage-database.png
+[usage-2]: images/usage-chat.png
 
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
 [python.org]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff
 [python-url]: https://www.python.org/
 [streamlit.io]: https://img.shields.io/badge/Streamlit-red
