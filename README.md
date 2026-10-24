@@ -129,7 +129,7 @@ To get a local copy up and running follow these simple steps.
 1. Run Ollama desktop application
 2. Run command
    ```sh
-   streamlit run st_chatbot.py
+   streamlit run app.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
